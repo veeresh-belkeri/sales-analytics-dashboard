@@ -1,0 +1,5 @@
+discount_band,num_orders,avg_profit_margin_pct
+1-20%,3803,17.44
+21-40%,460,-16.69
+40%+,933,-108.9
+No Discount,4798,34.02
